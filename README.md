@@ -1,6 +1,6 @@
 # Q-learning-example
 Q-learning example
-A realy good and clean tutorial by:
+A really good and clean tutorial by:
 Aneek Das
 https://towardsdatascience.com/introduction-to-q-learning-88d1c4f2b49c
 
